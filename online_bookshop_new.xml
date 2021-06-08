@@ -1,0 +1,332 @@
+<?xml version = "1.0"  encoding = "utf-8"?>
+<!DOCTYPE online_bookshop SYSTEM "online_bookshop_new.dtd"> 
+<?xml-stylesheet href="bookshop.css" type="text/css"?>
+
+<online_bookshop name="XYZ ONLINE BOOKSHOP" free_ship="Δωρεάν μεταφορικά σε παραγγελίες βιβλίων από 14,50€">
+    <author_list>
+        <author auid="_1" name="Tolstoi Leon"/>
+        <author auid="_2" name="Fischek Sebastian"/>
+        <author auid="_3" name="Jo Nesbo" />
+        <author auid="_4" name="ΕΥΣΤΑΘΙΟΥ ΕΥΑΓΓΕΛΙΑ" />
+        <author auid="_5" name="Rafe Colburn" />
+        <author auid="_6" name="Laura Lemay" />
+        <author auid="_7" name="Jennifer Kyrnin" />
+        <author auid="_8" name="Glass Russel" />
+        <author auid="_9" name="Callahan Sean" />
+        <author auid="_10" name="Petzold Charles" />
+        <author auid="_11" name="ΜΠΑΜΠΕΤΑ ΙΩΑΝΝΑ" />
+        <author auid="_12" name="ΕΞΥΠΕΡΙ ΑΝΤΟΥΑΝ ΝΤΕ ΣΑΙΝΤ" />
+        <author auid="_13" name="ΜΑΝΔΗΛΑΡΑΣ ΦΙΛΙΠΠΟΣ" />
+    </author_list>
+    <Book_categories>
+        <book_category category_id="_K1">Λογοτεχνία</book_category>
+        <book_category category_id="_K2">Παιδικά</book_category>
+        <book_category category_id="_K3">Επιστήμες</book_category>
+        <book_category category_id="_K4">Παιδαγωγικά</book_category>
+        <book_category category_id="_K5">Ποίηση</book_category>
+        <book_category category_id="_K6">Φιλοσοφία</book_category>
+    </Book_categories>
+    <Book_secondary_categories>
+        <secondary_category sub_cat="_S1" category_id="_K1" >Ελληνική Λογοτεχνία </secondary_category>
+        <secondary_category sub_cat="_S2" category_id="_K1" >Ποίηση</secondary_category>
+        <secondary_category sub_cat="_S3" category_id="_K1" >Αστυνομική Λογοτεχνία</secondary_category>
+        <secondary_category sub_cat="_S4" category_id="_K1" >Παγκόσμια Λογοτεχνία</secondary_category>
+        <secondary_category sub_cat="_S5" category_id="_K1" >Παιδική Λογοτεχνία</secondary_category>
+        <secondary_category sub_cat="_S6" category_id="_K2" >Παραμύθια</secondary_category>
+        <secondary_category sub_cat="_S7" category_id="_K2" >Δραστηριότητες</secondary_category>
+        <secondary_category sub_cat="_S8" category_id="_K2" >Προσχολική Ηλικία </secondary_category>
+        <secondary_category sub_cat="_S9" category_id="_K2" >Πάνινα Βιβλία</secondary_category>
+        <secondary_category sub_cat="_S10" category_id="_K2" >Εκπαιδευτικά Βιβλία</secondary_category>
+        <secondary_category sub_cat="_S11" category_id="_K2" >Μυθολογία</secondary_category>
+        <secondary_category sub_cat="_S12" category_id="_K2" >Εγκυκλοπαιδικά Βιβλία </secondary_category>
+        <secondary_category sub_cat="_S13" category_id="_K3" >Οικονομία</secondary_category>
+        <secondary_category sub_cat="_S14" category_id="_K3" >Ιατρική</secondary_category>
+        <secondary_category sub_cat="_S15" category_id="_K3" >Μαθηματικά</secondary_category>
+        <secondary_category sub_cat="_S16" category_id="_K3" >Πληροφορική</secondary_category>
+        <secondary_category sub_cat="_S17" category_id="_K3" >Ιστορία</secondary_category>
+        <secondary_category sub_cat="_S18" category_id="_K3" >Αρχιτεκτονική</secondary_category>
+        <secondary_category sub_cat="_S19" category_id="_K3" >Πολιτικές Επιστήμες και Δίκαιο</secondary_category>
+        <secondary_category sub_cat="_S20" category_id="_K3" >Βιολογία</secondary_category>
+        <secondary_category sub_cat="_S21" category_id="_K3" >Ψυχολογία/Ψυχανάλυση</secondary_category>
+        <secondary_category sub_cat="_S22" category_id="_K3" >Φυσική</secondary_category>
+        <secondary_category sub_cat="_S23" category_id="_K3" >Χημεία</secondary_category>
+        <secondary_category sub_cat="_S24" category_id="_K3" >Άλλες Επιστήμες</secondary_category>
+        <secondary_category sub_cat="_S25" category_id="_K4" >Διδακτικές</secondary_category>
+        <secondary_category sub_cat="_S26" category_id="_K4" >Παιδοψυχολογία</secondary_category>
+        <secondary_category sub_cat="_S27" category_id="_K4" >Εκπαίδευση</secondary_category>
+        <secondary_category sub_cat="_S28" category_id="_K4" >Παιδαγωγική</secondary_category>
+        <secondary_category sub_cat="_S29" category_id="_K4" >Ειδική Αγωγή</secondary_category>
+        <secondary_category sub_cat="_S30" category_id="_K5" >Ελληνική Ποίηση</secondary_category>
+        <secondary_category sub_cat="_S31" category_id="_K5" >Παγκόσμια Ποίηση</secondary_category>
+        <secondary_category sub_cat="_S32" category_id="_K6" >Αρχαία Ελληνική Φιλοσοφία</secondary_category>
+        <secondary_category sub_cat="_S33" category_id="_K6" >Ιστορία Φιλοσοφίας</secondary_category>
+        <secondary_category sub_cat="_S34" category_id="_K6" >Ανατολική Φιλοσοφία</secondary_category>
+        <secondary_category sub_cat="_S35" category_id="_K6" >Φιλοσοφικά Δοκίμια</secondary_category>
+        <secondary_category sub_cat="_S36" category_id="_K6" >Στοχασμοί</secondary_category>
+    </Book_secondary_categories>
+    
+    <book_list>
+        <book book_id="_no1" category_id="_K6" sub_cat="_S36">
+            <book_titles_info title="Ημερολόγιο Σοφίας" />
+            <authors author_id="_a1">
+                <other_partners></other_partners>
+            </authors>
+            <ISBN>9789607408891</ISBN>
+            <book_descr>
+                <review>Το βιβλίο αυτό, έργο των τελευταίων χρόνων της ζωής του Τολστόι, είναι το βιβλίο που ο ίδιος θεωρούσε ως τη σημαντικότερη συνεισφορά του στην ανθρωπότητα. Μέσα σ' αυτό το απάνθισμα θρησκευτικών και φιλοσοφικών σκέψεων που ο Τολστόι άντλησε απ' τη παγκόσμια πνευματική κληρονομιά, μπορούμε να βρούμε κάποια λόγια που θα αγγίξουν τη ψυχή μας και θα μας φέρουν πιο κοντά στην ουσία των πραγμάτων</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">14χ21</dimensions>
+                <publisher publisher_year="2004">PRINTA</publisher>
+                <pages>386</pages>
+                <language>Ελληνικά</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">23,32</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="20%">18,66</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+
+        <book book_id="_no2" category_id="_K1" sub_cat="_S3">
+            <book_titles_info title="Το δέμα" />
+            <authors author_id="_a2">
+                <other_partners></other_partners>
+            </authors>
+            <ISBN>9789606054358</ISBN>
+            <book_descr>
+                <review>Τους τελευταίους μήνες, μετά το απαίσιο εκείνο γεγονός, μένεις κλεισμένη στο σπίτι σου. Θέλεις να το αφήσεις πίσω σου. Ένα πρωί, ο ταχυδρόμος σού αφήνει ένα δέμα για τον γείτονα που λείπει. Δεν έχεις ακούσει ποτέ ξανά το όνομά του. Κοιτάζεις από τον φράχτη, και ο κήπος του φαίνεται παρατημένος. Δείχνει σαν να μη ζει κάποιος εκεί καιρό τώρα. Κάτι σε σπρώχνει να ανοίξεις το δέμα.</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">14χ21</dimensions>
+                <publisher publisher_year="2018">ΔΙΟΠΤΡΑ</publisher>
+                <pages>392</pages>
+                <language>Ελληνικά</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">16,60</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="30%">11,60</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+
+        <book book_id="_no3" category_id="_K1" sub_cat="_S3">
+            <book_titles_info title="Το βασίλειο" subtitle="Δύο αδέλφια. Μία πόλη. Τα σκοτεινά μυστικά μιας ζωής" />
+            <authors author_id="_a3">
+                <other_partners></other_partners>
+            </authors>
+            <ISBN>9786180323054</ISBN>
+            <book_descr>
+                <review>ΠΑΝΤΑ ΤΟΝ ΠΡΟΣΤΑΤΕΥΕ. Από τα δεκάξι του, που χάθηκαν ξαφνικά οι γονείς τους, ο Ρόι ανέλαβε τη φροντίδα του μικρού του αδελφού, του Καρλ. Μεγαλώνοντας οι δρόμοι τους χωρίστηκαν. Ο Καρλ αποφάσισε να περιπλανηθεί στον κόσμο αναζητώντας μια καλύτερη τύχη. Ο Ρόι έμεινε πίσω, στο οικογενειακό κτήμα, στο απομονωμένο βασίλειό τους, ικανοποιημένος με μια ήσυχη καθημερινότητα. ΜΕΧΡΙ ΠΟΥ ΓΥΡΙΣΕ, ΓΙΑ ΝΑ ΔΙΕΚΔΙΚΗΣΕΙ ΜΙΑ ΘΕΣΗ ΣΤΟ ΒΑΣΙΛΕΙΟ… Χρόνια αργότερα, ο Καρλ επιστρέφει, με τη χαρισματική νέα του σύζυγο, την αρχιτέκτονα Σάνον. Έχουν ένα σωρό συναρπαστικά σχέδια – να χτίσουν ένα ξενοδοχείο στο κτήμα και να πνιγούν στα πλούτη τόσο τα αδέρφια όσο και όλο το χωριό. ΚΑΙ ΤΑ ΣΚΟΤΕΙΝΑ ΜΥΣΤΙΚΑ ΑΡΧΙΣΑΝ ΝΑ ΒΓΑΙΝΟΥΝ ΣΤΟ ΦΩΣ. Η χαρμόσυνη άφιξη σύντομα γίνεται η αφορμή για μια σειρά από γεγονότα που απειλούν ό,τι αγαπά και θέλει να διαφυλάξει ο Ρόι… Οικογενειακό χρέος, αναπάντεχες ανατροπές, όλο και περισσότερα πτώματα: ένα εκτυφλωτικό θρίλερ, ένα ακαταμάχητο αναγνωστικό κοκτέιλ.</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">14χ21</dimensions>
+                <publisher publisher_year="2020" publisher_country="GR">ΜΕΤΑΙΧΜΙΟ</publisher>
+                <pages>696</pages>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">19,90</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="10%">17,91</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+        <book book_id="_no4" category_id="_K1" sub_cat="_S1">
+            <book_titles_info title="ΒΑΘΥ ΒΕΛΟΥΔΙΝΟ ΣΚΟΤΑΔΙ" />
+            <authors author_id="_a4">
+                <other_partners></other_partners>
+            </authors>
+            <ISBN>9789601426204</ISBN>
+            <book_descr>
+                <review>Στην Ισπανία του 15ου αιώνα, η νεαρή χωρική Μαρία Ρεγγίνα Σίλβα καταριέται τον άρχοντα του τόπου της κόμη Ραφαέλ Μιγκέλ Ρέγιες να ζει αιώνια στα σκοτάδια. Και η κατάρα της, διαπερνώντας τα τείχη του χρόνου, καταδικάζει όσους είναι γραφτό να αγαπηθούν να καίγονται στις φλόγες του μίσους. Πέντε αιώνες αργότερα, ξενιστές των ψυχών που δε γαλήνεψαν ποτέ είναι πλέον ο διάσημος συνθέτης Ραφαέλ Κορμανός και η ζωγράφος Ρεγγίνα Ζελιώτη. Στις νότες του, το μόνο φως που γνώρισε από μικρό παιδί. Στον καμβά της, οι μόνες στιγμές αληθινής γαλήνης. Οι δυο τους είναι καταδικασμένοι να συγκρουστούν. Η μοίρα τούς θέλει εχθρούς, αλλά η ανάγκη τους για λύτρωση συνοδοιπόρους. Και, καθώς τα δάχτυλα γητεύουν τα πλήκτρα, καθώς η καρδιά αψηφά το πεπρωμένο και ο πόλεμος μαίνεται μέσα σε δάκρυα και αίμα, η αγάπη ψάχνει τον τρόπο για να συναντήσει το φως. Ο δρόμος είναι μακρύς, αφιλόξενος, δύσβατος, γραμμένος από αλύγιστο χέρι. Και η ζωή των δύο ηρώων μοιάζει με ανεξίτηλο λεκέ στου χρόνου το ριχτάρι. Τα εμπόδια, πολλά και συχνά ανυπέρβλητα, θέτουν φραγμούς στη λαχτάρα τους για λύτρωση. Θα τα καταφέρουν; Θα συνεχίσουν να είναι οι τελευταίοι κρίκοι στην αλυσίδα του μίσους, που τους κρατά αιχμάλωτους σε ένα βαθύ, ατέλειωτο σκοτάδι, ή θα σπάσουν τα δεσμά και θα αντικρίσουν τον ήλιο; Θα πάψει επιτέλους η νύχτα να φαντάζει αιώνια πια;</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">16χ24</dimensions>
+                <publisher publisher_year="2013">ΛΙΒΑΝΗΣ</publisher>
+                <pages>593</pages>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">9,90</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="31%">6,83</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+        <book book_id="_no5" category_id="_K3" sub_cat="_S16"  publish="7η Έκδοση">
+            <book_titles_info title="ΠΛΗΡΕΣ ΕΓΧΕΙΡΙΔΙΟ HTML 5 CSS και JAVASCRIPT" />
+            <authors author_id="_a5">
+                <other_partners>
+                    <translation>ΣΑΜΑΡΑΣ Β.ΓΙΑΝΝΗΣ</translation>
+                </other_partners>
+            </authors>
+            <ISBN>9789605126964</ISBN>
+            <book_descr>
+                <review>Αυτό το εύληπτο, βήμα προς βήμα βιβλίο, έχει αναθεωρηθεί και ενημερωθεί πλήρως με παραδείγματα, τα οποία συμμορφώνονται με την HTML5, το CSS3 και τις σύγχρονες πρακτικές ανάπτυξης για το Web. Σας βοηθά να μάθετε γρήγορα τα βασικά της HTML και του CSS, και κατόπιν προχωρεί σε πιο προηγμένα θέματα, όπως γραφικά, βίντεο και διαδραστικότητα με χρήση της JavaScript. Σε 25 καλογραμμένα κεφάλαια θα αποκτήσετε τις δεξιότητες που χρειάζεστε για να σχεδιάζετε, να δημιουργείτε και να συντηρείτε ιστότοπους με επαγγελματική εμφάνιση. Δεν απαιτείται προηγούμενη εμπειρία. Ακολουθώντας την ροή των κεφαλαίων του βιβλίου μπορείτε να μάθετε τα βασικά της ανάπτυξης για το Web. Μάθετε με τον ρυθμό που σας εξυπηρετεί. Μπορείτε να μελετήσετε κάθε κεφάλαιο με την σειρά, για να βεβαιωθείτε ότι κατανοείτε πλήρως τις αρχές και τις μεθοδολογίες ή να εστιάσετε την προσοχή σας σε συγκεκριμένα κεφάλαια, για να μάθετε τις τεχνικές που σας ενδιαφέρουν περισσότερο. Ελέγξτε τις γνώσεις σας. Κάθε κεφάλαιο ολοκληρώνεται με μια ενότητα Εργασιών, που περιέχει ερωτήσεις, απαντήσεις και ασκήσεις για περαιτέρω μελέτη.</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">17x24</dimensions>
+                <publisher publisher_year="2016">ΓΚΙΟΥΡΔΑΣ Μ.</publisher>
+                <pages>752</pages>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">52,00</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="10%">46,80</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 4-6 εργάσιμων ημερών.">Διαθέσιμο κατόπιν παραγγελίας.</availability>
+            </other_information>
+        </book>
+        <book book_id="_no6" category_id="_K3" sub_cat="_S16">
+            <book_titles_info title="The Big Data-Driven Business" subtitle="How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits." />
+            <authors author_id="_a8">
+                <other_partners>
+                    <illustration>Illustrations S.A.</illustration>
+                </other_partners>
+            </authors>
+            <ISBN>9781118889800</ISBN>
+            <book_descr>
+                <review>Get the expert perspective and practical advice on big data The Big Data-Driven Business: How to Use Big Data to Win Customers, Beat Competitors, and Boost Profits makes the case that big data is for real, and more than just big hype. The book uses real-life examples-from Nate Silver to Copernicus, and Apple to Blackberry-to demonstrate how the winners of the future will use big data to seek the truth. Written by a marketing journalist and the CEO of a multi-million-dollar B2B marketing platform that reaches more than 90% of the U.S. business population, this book is a comprehensive and accessible guide on how to win customers, beat competitors, and boost the bottom line with big data. The marketplace has entered an era where the customer holds all the cards. With unprecedented choice in both the consumer world and the B2B world, it's imperative that businesses gain a greater understanding of their customers and prospects. Big data is the key to this insight, because it provides a comprehensive view of a company's customers-who they are, and who they may be tomorrow. The Big Data-Driven Business is a complete guide to the future of business as seen through the lens of big data, with expert advice on real-world applications. Learn what big data is, and how it will transform the enterprise Explore why major corporations are betting their companies on marketing technology Read case studies of big data winners and losers Discover how to change privacy and security, and remodel marketing Better information allows for better decisions, better targeting, and better reach. Big data has become an indispensable tool for the most effective marketers in the business, and it's  becoming less of a competitive advantage and more like an industry standard. Remaining relevant as the marketplace evolves requires a full understanding and application of big data, and The Big Data-Driven Business provides the practical guidance businesses need.</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">25x2x15</dimensions>
+                <publisher publisher_year="2014" publisher_country="United States">John Wiley and Sons Inc</publisher>
+                <pages>224</pages>
+                <weight w_unit="gr">666</weight>
+                <language>Αγγλικά</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">23,49</start_value>
+                <end_value currency="euro" with_discount="no">23,49</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή εντός 6-10 εργάσιμων ημερών.">Διαθέσιμο κατόπιν παραγγελίας.</availability>
+            </other_information>
+        </book>
+        <book book_id="_no7" category_id="_K3" sub_cat="_S16">
+            <book_titles_info title="The Annotated Turing" subtitle="A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine." />
+            <authors author_id="_a10">
+                <other_partners></other_partners>
+            </authors>
+            <ISBN>9780470229057</ISBN>
+            <book_descr>
+                <review>Programming Legend Charles Petzold unlocks the secrets of the extraordinary and prescient 1936 paper by Alan M. Turing Mathematician Alan Turing invented an imaginary  computer known as the Turing Machine; in an age before computers, he explored the concept of what it meant to be computable, creating the field of computability theory in the process, a foundation of present-day computer programming. The book expands Turing's original 36-page paper with additional background chapters and extensive annotations; the author elaborates on and clarifies many of Turing's statements, making the original difficult-to-read document accessible to present day programmers, computer science majors, math geeks, and others. Interwoven into the narrative are the highlights of Turing's own life: his years at Cambridge and Princeton, his secret work in cryptanalysis during World War II, his involvement in seminal computer projects, his speculations about artificial intelligence, his arrest and prosecution for  the crime of "gross indecency," and his early death by apparent suicide at the age of 41.</review>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">23x2x15</dimensions>
+                <publisher publisher_year="2008" publisher_country="United Kingdom">John Wiley and Sons Inc</publisher>
+                <pages>384</pages>
+                <weight w_unit="gr">444</weight>
+                <language>Αγγλικά</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">28,99</start_value>
+                <end_value currency="euro" with_discount="no">28,99</end_value>
+            </cost_information>
+            <other_information>
+                <availability>Μη Διαθέσιμο.</availability>
+            </other_information>
+        </book>
+        <book book_id="_no8" category_id="_K2" sub_cat="_S11">
+            <book_titles_info title="ΓΝΩΡΙΖΩ ΤΗ ΜΥΘΟΛΟΓΙΑ ΟΙ ΑΘΛΟΙ ΤΟΥ ΗΡΑΚΛΗ" />
+            <authors author_id="_a11">
+                <other_partners>
+                    <illustration>ΤΣΙΛΗΣ ΘΑΝΟΣ</illustration>
+                </other_partners>
+            </authors>
+            <ISBN>9786180207446</ISBN>
+            <book_descr>
+                <review> Ο μεγαλύτερος ήρωας στην ελληνική μυθολογία είναι ο Ηρακλής. Χάρη στη δύναμη και τη γενναιότητά του, κατάφερε να νικήσει θηρία και τέρατα. Με την εξυπνάδα του μπόρεσε να πραγματοποιήσει δώδεκα άθλους, που τον έκαναν ξακουστό σε όλο τον κόσμο. Μέχρι κι ολόκληρη τη Γη κράτησε για λίγο στις πλάτες του. Ας τον γνωρίσουμε!</review>
+                <for_ages>Για παιδιά 3-8 ετών.</for_ages>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">25x23</dimensions>
+                <publisher publisher_year="2016">ΜΙΝΩΑΣ</publisher>
+                <pages>40</pages>
+                <weight w_unit="gr">0.39</weight>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">9,99</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="30%">6,98</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+        <book book_id="_no9" category_id="_K2" sub_cat="_S11">
+            <book_titles_info title="ΓΝΩΡΙΖΩ ΤΗ ΜΥΘΟΛΟΓΙΑ ΔΑΙΔΑΛΟΣ ΚΑΙ ΙΚΑΡΟΣ" />
+            <authors author_id="_a111">
+                <other_partners>
+                    <illustration>ΤΣΙΛΗΣ ΘΑΝΟΣ</illustration>
+                </other_partners>
+            </authors>
+            <ISBN>9786180208849</ISBN>
+            <book_descr>
+                <review> Ο Δαίδαλος θαυμαστά έργα δημιουργούσε. Μέχρι και φτερά κατάφερε να φτιάξει και, σαν φτερωτός θεός, με τον γιο του Ίκαρο ψηλά να πετάξει.Όμως η αθωότητα του Ίκαρου δεν τον προφύλαξε από το κακό… Ας τους γνωρίσουμε!</review>
+                <for_ages>Για παιδιά 3-8 ετών.</for_ages>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">25x23</dimensions>
+                <publisher publisher_year="2017">ΜΙΝΩΑΣ</publisher>
+                <pages>40</pages>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">9,99</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="30%">6,98</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+        <book book_id="_no10" category_id="_K1" sub_cat="_S5">
+            <book_titles_info title="Ο ΜΙΚΡΟΣ ΠΡΙΓΚΙΠΑΣ" />
+            <authors author_id="_a12">
+                <other_partners>
+                    <translation>ΚΑΡΑΚΩΣΤΑ ΜΕΛΙΝΑ</translation>
+                </other_partners>
+            </authors>
+            <ISBN>9789606000904</ISBN>
+            <book_descr>
+                <review>«Έτσι έζησα μόνος, χωρίς κανέναν που να μπορώ να του μιλάω αληθινά, μέχρι που έπαθα μια βλάβη στη Σαχάρα πριν από έξι χρόνια. Κάτι είχε σπάσει μέσα στον κινητήρα μου. Κι όπως δεν είχα μαζί μου ούτε μηχανικό ούτε επιβάτες, ετοιμαζόμουν να δοκιμάσω μόνος μου μια δύσκολη επισκευή. Ήταν για μένα ζήτημα ζωής και θανάτου. Είχα νερό το πολύ για οχτώ μέρες. ...Ήμουν πιο απομονωμένος κι από ναυαγό σε σχεδία στη μέση του ωκεανού. Φαντάζεστε λοιπόν την έκπληξή μου τα ξημερώματα, όταν με ξύπνησε μια περίεργη φωνούλα...»</review>
+                <for_ages>Για παιδιά 9-12 ετών.</for_ages>
+            </book_descr>
+            <book_characteristics>
+                <dimensions unit="cm">16x22</dimensions>
+                <publisher publisher_year="1997">ΠΑΤΑΚΗΣ</publisher>
+                <pages>97</pages>
+                <language>Έλληνικα</language>
+            </book_characteristics>
+            <cost_information>
+                <start_value currency="euro">6,47</start_value>
+                <end_value currency="euro" with_discount="yes" percent_of_discount="31%">4,46</end_value>
+            </cost_information>
+            <other_information>
+                <availability send="Αποστολή 
+                εντός 1-3 εργάσιμων ημερών.">Άμεσα διαθέσιμο</availability>
+            </other_information>
+        </book>
+
+    </book_list>
+    <contact_details>
+        <address>Σταδίου 35, Αθήνα</address>
+        <tel> +30 210 23643666</tel>
+        <email>xyz@outl.books.com</email>
+    </contact_details>
+</online_bookshop>

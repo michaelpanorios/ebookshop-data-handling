@@ -1,0 +1,46 @@
+online_bookshop{                               
+    background-image: url(bookstore.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+    display: block;
+}
+
+ISBN, dimensions, illustration, translation, pages, language, cost_information, other_information, weight, other_partners, review, for_ages, publisher{
+    display: block;
+    text-align: center;
+}
+
+
+book{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: wheat;
+    width: 500px;
+    display: block;
+    padding: 50px;
+    border: 4px solid #0d0d0d;
+    text-align: center;
+    margin-left: 660px;
+    margin-top: 5px;
+}
+
+/*<book_titles_info title="The diary of Wimpy Kid" subtitle="The Ugly Truth" />*/
+
+name{
+    color:tomato;
+    font-weight: bold;
+    font-size: 300%;
+    display: block;
+    margin-bottom: 2px;
+}
+
+book_titles_info, ISBN, dimensions, illustration, translation, pages, language, cost_information, availability, weight, other_partners, review, for_ages, publisher{
+    color: rgb(20, 20, 20);
+    font-size: 90%;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    
+}
+
+
+
